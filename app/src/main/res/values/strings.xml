@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FacebookComposeUI</string>
+    <string name="search">search</string>
+    <string name="chat">Chat</string>
+    <string name="home">home</string>
+    <string name="reels">reels</string>
+    <string name="marketplace">market place</string>
+    <string name="news">news</string>
+    <string name="notification">notification</string>
+    <string name="menu">side menu</string>
+    <string name="profile">profile picture</string>
+    <string name="whats_on_your_mind">What\'s on your mind?</string>
+    <string name="live">Live</string>
+    <string name="photo">Photo</string>
+    <string name="web_client_id">101207887406-c1q57no84ksilklt62q5f41k2j5p3qrh.apps.googleusercontent.com</string>
+</resources>
